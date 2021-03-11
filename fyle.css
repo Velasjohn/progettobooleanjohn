@@ -1,0 +1,32 @@
+*{box-sizing: border-box;
+margin:auto;}
+
+body{background-image:url(MaterialeEsercizioLim/background.jpg);
+background-size:cover;background-repeat: no-repeat;padding: 60px;width:1000px;
+}
+
+.contenitore{background:rgba(0, 0, 0, 0.5); border-radius: 10px;}
+
+
+header{text-align: center;}
+.logo{width: 200px; margin-top: 20px;}
+
+#titolo{color:#00dd00 ; font-size: 220%; }
+
+nav{background-color: lightgreen; width: 93%;}
+.bottoni{background-color:#00dd00; text-align:center; padding: 1%; }
+
+main{color: white; position: relative; left: 34px;}
+
+#grad1{ height: 30px;background-color: #ffa500d9;margin-right: 60%;}
+
+#grad2{background-color: #00dd00bd;height: 30px;margin-right: 45%;}
+
+#grad3{background-color: #ff0000b5;height: 30px;margin-right: 80%;}
+
+h3{display: inline;}
+
+.scritta{font-size: 24px;}
+
+footer{font-family: cursive; font-size: 18px; text-align: center; color: white;
+padding: 20px;}
